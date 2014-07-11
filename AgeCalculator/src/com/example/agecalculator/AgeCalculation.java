@@ -28,11 +28,7 @@ resYear=endYear-startYear;
 
 }
 
-public void calcualteMonth()
-{
-if(endMonth>=startMonth)
-{
-resMonth= endMonth-startMonth;
+
 }
 else
 {
